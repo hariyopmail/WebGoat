@@ -1,0 +1,4 @@
+[submodule "devops"]
+	path = devops
+	url = https://github.com/hariyopmail/devopsscripts1.git
+	branch = dev
